@@ -1,0 +1,23 @@
+{
+  "name": "template-meetup",
+  "version": "0.0.1",
+  "description": "template meetup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megraz/template-meetup.git"
+  },
+  "author": "marlene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megraz/template-meetup/issues"
+  },
+  "homepage": "https://github.com/megraz/template-meetup#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mustache": "^2.3.0"
+  }
+}
